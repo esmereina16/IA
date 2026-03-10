@@ -114,3 +114,100 @@ El objetivo del Big Data es **extraer información útil para tomar decisiones**
 | Valor | Información útil obtenida |
 
 > El **Machine Learning** es una forma de crear **Inteligencia Artificial** utilizando **datos y aprendizaje automático**.
+> # 📊 Análisis de Datos
+
+## 🤔 ¿Qué es el análisis de datos?
+
+El **análisis de datos** es el proceso de **mirar y estudiar datos** para **entender qué está pasando** y **tomar mejores decisiones**.
+
+Es como ser un **detective 🕵️‍♂️ de información**:  
+usas los datos para encontrar **patrones, problemas o ideas útiles**.
+
+Ejemplo:  
+Una empresa analiza sus ventas para saber **qué productos se venden más**.
+
+---
+
+## 🛠️ Herramientas para analizar datos
+
+### 📑 Excel / Google Sheets
+Sirven para:
+- Organizar datos
+- Hacer cuentas
+- Crear gráficos
+
+---
+
+### 🐍 Python / 📈 R
+Son lenguajes de programación que ayudan a:
+- Analizar **muchos datos**
+- Hacer **estadísticas**
+- Crear **modelos de datos**
+
+---
+
+### 📊 Power BI / Tableau
+Sirven para:
+- Crear **gráficos**
+- Hacer **paneles visuales (dashboards)**
+- Mostrar datos de forma **clara y fácil**
+
+---
+
+## 🎯 En resumen
+
+- 📊 **Análisis de datos:** estudiar datos para entender información.  
+- 🕵️ **Objetivo:** encontrar patrones y tomar decisiones.  
+- 🛠️ **Herramientas:** Excel, Python, R, Power BI y Tableau.
+- 
+# 📊 Dataset vs DataFrame
+
+## 📦 Dataset (Conjunto de datos)
+
+Un **dataset** es una **colección de datos** organizados.
+
+Puede contener información como:
+- nombres
+- edades
+- precios
+- fechas
+
+Ejemplo de dataset:
+
+| Nombre | Edad | Ciudad |
+|------|------|------|
+| Ana | 25 | Córdoba |
+| Luis | 30 | Buenos Aires |
+| Marta | 28 | Rosario |
+
+👉 Es simplemente **un conjunto de información**.
+
+---
+
+## 🧩 DataFrame
+
+Un **DataFrame** es una **estructura de datos en forma de tabla** que se usa en programación para trabajar con datasets.
+
+Tiene:
+- **filas**
+- **columnas**
+- **etiquetas**
+
+Se usa mucho en herramientas como **Python** o **R** para **analizar y manipular datos**.
+
+---
+
+## 🔍 Diferencia principal
+
+| Dataset | DataFrame |
+|-------|-------|
+| Conjunto de datos | Forma de organizar y trabajar con esos datos |
+| Es información | Es una estructura de programación |
+| Puede estar en archivos (CSV, Excel) | Se usa dentro de programas |
+
+---
+
+✅ **Idea simple:**
+
+- **Dataset = los datos 📦**  
+- **DataFrame = la tabla que usamos para trabajar con esos datos 📊**
